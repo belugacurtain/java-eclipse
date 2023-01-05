@@ -142,4 +142,4 @@ java 수업 (2023. 01. 03.)
 java 수업 (2023. 01. 05.)
 - 시작
 
-  	git bash 사용 java tutorials 폴더/파일 올리기 중
+  	git bash 사용 java tutorials 폴더/파일 올리기 완료
