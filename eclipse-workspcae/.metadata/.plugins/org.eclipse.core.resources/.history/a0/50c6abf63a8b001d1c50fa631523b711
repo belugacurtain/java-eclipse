@@ -1,9 +1,0 @@
-package org.opentutorials.javatutorials.constantType;
-
-public class ConstantDemo {
-
-	public static void main(String[] args) {
-		float a = 2.2f;
-		System.out.println(a);
-	}
-}
