@@ -13,6 +13,8 @@ public class ConstantDemo {
 		System.out.println("명시적형변환");
 		System.out.println(gunami_a);
 		System.out.println(gunami_b);
-		
+
+		flaot belugacurtain_test = (float)150.0;
+		System.out.println("belugacurtain git bash commit test");
 	}
 }
