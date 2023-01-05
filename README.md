@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=belugacurtain&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img width=100% src="https://github-readme-stats.vercel.app/api?username=belugacurtain&show_icons=true&count_private=true&hide_border=true" align="center" />
 ---------------------------------------------------------------------------------
 
 ### java 수업 (2023. 01. 05.)
