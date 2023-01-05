@@ -1,0 +1,12 @@
+package org.opentutorials.javatutorials.variables;
+
+public class IntergerDemo {
+
+	public static void main(String[] args) {
+		int a;
+		a = 1;
+		if(a != 21) {
+			System.out.println("a는 21이 아닙니다");
+		}
+	}
+}

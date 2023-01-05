@@ -1,0 +1,9 @@
+package org.opentutorials.javatutorials.constantType;
+
+public class ConstantDemo {
+
+	public static void main(String[] args) {
+
+	}
+
+}

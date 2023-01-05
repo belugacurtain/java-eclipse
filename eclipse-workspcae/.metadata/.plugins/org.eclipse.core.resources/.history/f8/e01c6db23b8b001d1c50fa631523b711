@@ -1,0 +1,13 @@
+package org.opentutorials.javatutorials.constantType;
+
+public class ConstantDemo {
+
+	public static void main(String[] args) {
+		float a = 2.2F;
+		long b = 12333333333123L;
+		byte c = 100;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+	}
+}
